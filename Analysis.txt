@@ -1,0 +1,9 @@
+Analysis v1.0
+**********************************
+
+This program will be attempted in Java first.
+
+
+I want to write each operator as a class.  The first implementation of this
+program will use JAVA primitives.  The next implementation will use objects.
+Hopefully, this allows for either objects or primitives.

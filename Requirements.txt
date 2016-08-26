@@ -1,0 +1,10 @@
+Requirements v1.0
+***********************************
+
+This is a simple calculator program.  The first version will be able to:
+- add
+- subtract
+- multiply
+- divide
+- exponents
+- roots
