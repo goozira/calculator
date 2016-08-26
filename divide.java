@@ -1,8 +1,8 @@
 
 public class divide
 {
-  double divide(double firstTerm, double secondTerm)
+  double div(double firstTerm, double secondTerm)
   {
-    return firstTerm/secondTerm;
+    return firstTerm / secondTerm;
   }
 }

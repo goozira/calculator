@@ -1,7 +1,7 @@
 
 public class multiply
 {
-  double multiply(double firstTerm, double secondTerm)
+  double mult(double firstTerm, double secondTerm)
   {
     return firstTerm * secondTerm;
   }
