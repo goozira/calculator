@@ -1,11 +1,11 @@
 public class operator
 {
-    int add(int firstTerm, int secondTerm)
+    double add(double firstTerm, double secondTerm)
     {
       return firstTerm + secondTerm;
     }
 
-    int subtract(int firstTerm, int secondTerm)
+    double subtract(double firstTerm, double secondTerm)
     {
       return firstTerm - secondTerm;
     }
